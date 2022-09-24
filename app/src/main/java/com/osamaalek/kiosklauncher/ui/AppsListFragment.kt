@@ -21,6 +21,7 @@ class AppsListFragment : Fragment() {
         savedInstanceState: Bundle?
     ): View? {
 
+
         val view = inflater.inflate(R.layout.fragment_apps_list, container, false)
         recyclerView = view.findViewById(R.id.recyclerView_apps)
         recyclerView.layoutManager = GridLayoutManager(requireContext(), 4, VERTICAL, false)
