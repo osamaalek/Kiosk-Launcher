@@ -9,6 +9,7 @@
         <entry key="app/src/main/res/layout/fragment_apps_list.xml" value="0.25" />
         <entry key="app/src/main/res/layout/fragment_home.xml" value="0.27105600684053016" />
         <entry key="app/src/main/res/layout/holder_app.xml" value="0.2702009405728944" />
+        <entry key="app/src/main/res/xml/device_admin_conf.xml" value="0.2697734074390765" />
       </map>
     </option>
   </component>
